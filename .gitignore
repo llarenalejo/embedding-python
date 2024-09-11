@@ -1,4 +1,4 @@
 mangakatDB.session.sql
 .vscode/settings.json
 __pycache__/data_embed.cpython-39.pyc
-.env
+*.env
