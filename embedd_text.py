@@ -27,7 +27,7 @@ connection =psycopg2.connect(
     password=os.getenv('password')
 )
 cursor=connection.cursor()
-
+#modificar los argumentos
 if(first_argument=="1"):
 
     print(second_argument)
