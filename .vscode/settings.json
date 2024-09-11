@@ -7,7 +7,7 @@
             "askForPassword": true,
             "driver": "PostgreSQL",
             "name": "mangakatDB",
-            "database": "mangaKat",
+            "database": "mangaKat" ,
             "username": "postgres"
         }
     ]
